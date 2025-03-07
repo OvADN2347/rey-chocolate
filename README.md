@@ -1,2 +1,3 @@
-# rey-chocolate
-historia completa
+# 1er Script
+cd
+
